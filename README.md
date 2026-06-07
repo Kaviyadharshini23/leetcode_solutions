@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
