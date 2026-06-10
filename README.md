@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
