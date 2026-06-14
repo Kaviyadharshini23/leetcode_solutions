@@ -65,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
