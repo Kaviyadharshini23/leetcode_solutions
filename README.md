@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1002-find-common-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
