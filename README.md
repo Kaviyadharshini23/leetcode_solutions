@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0819-most-common-word) |
 | [1603-design-parking-system](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/1603-design-parking-system) |
 ## Math
 |  |
