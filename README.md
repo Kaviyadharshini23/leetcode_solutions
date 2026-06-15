@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
