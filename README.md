@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0136-single-number) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0029-divide-two-integers) |
 ## Trie
 |  |
 | ------- |
