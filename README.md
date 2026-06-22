@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0136-single-number) |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kaviyadharshini23/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
